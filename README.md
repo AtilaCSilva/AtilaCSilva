@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Atila Silva
 
 
-- 🌱 I’m currently learning  Html, css, JavaScript e React
-- 👯 I’m looking to collaborate on ... front-end
-- 📫 How to reach me: ... @AtilaSilva
-
-
-
+- 🌱 I’m currently learning  Html, css e JavaScript
+- 👯 I’m looking to collaborate on front-end
