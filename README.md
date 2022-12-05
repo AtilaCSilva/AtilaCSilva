@@ -1,4 +1,4 @@
-## Hii, I'm called Atila Silva! Development Web Student with focus in Full Stack
+# Hii, I'm called Atila Silva! Development Web Student with focus in Full Stack
 - 💡 I'm currently learning JavaScript, TypeScript, SQL, React, NodeJS
 - 😗 I'm looking to work with Full👾Stack
 - 🏅 fun facts: I really like technologies, but always liked of all kind sports!
