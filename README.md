@@ -18,7 +18,7 @@
   <div> 
   <a href="https://www.instagram.com/atilasilva2800/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/llatila" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href =(mailto:atilacsilva2008.com)><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=(mailto:atilacsilva2008.com)" target="_blank"></a>
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:atilacsilva2008.com)](mailto:atilacsilva2008@gmail.com)
     
  ![Snake animation](https://github.com/atilaCSilva/atilaCSilva/blob/output/github-contribution-grid-snake.svg)
  
