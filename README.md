@@ -1,4 +1,4 @@
-## Hii, I'm called Atila Silva!
+## Hii, I'm called Atila Silva! Development Web Student with focus in Full Stack
 - 💡 I'm currently learning JavaScript, TypeScript, SQL, React, NodeJS
 - 😗 I'm looking to work with Full👾Stack
 - 🏅 fun facts: I really like technologies, but always liked of all kind sports!
@@ -18,7 +18,7 @@
   <div> 
   <a href="https://www.instagram.com/atilasilva2800/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/llatila" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "atilacsilva2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatoatilacsilva2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
  ![Snake animation](https://github.com/atilaCSilva/atilaCSilva/blob/output/github-contribution-grid-snake.svg)
  
