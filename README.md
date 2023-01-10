@@ -4,7 +4,7 @@
 - 🏅 Fun facts: I really like technologies, but always liked of all kind sports!
 <div align="center">
   <a href="https://github.com/atilaCSilva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=atilaCSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atilacsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Atila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
