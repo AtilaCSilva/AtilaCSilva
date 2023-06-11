@@ -1,5 +1,5 @@
 # Hii, I'm called Atila Silva! Learnig Web Development 
-- 💡 I'm currently learning JavaScript, TypeScript, SQL, React, NodeJS
+- 💡 I'm currently learning JavaScript, TypeScript, React, UI/UX Design 
 - 😗 I'm looking to work with Front-end and UI👾UX Designer
 - 🏅 Fun facts: I really like technologies, but always liked of all kind sports!
 
