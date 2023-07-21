@@ -1,7 +1,7 @@
-# Hii, I'm called Atila Silva! Learnig Web Development 
+# Hii, I'm called Atila Silva! Learning Web Development 
 - 💡 I'm currently learning JavaScript, TypeScript, React, UI/UX Design 
 - 😗 I'm looking to work with Front-end and UI👾UX Designer
-- 🏅 Fun facts: I really like technologies, but always liked of all kind sports!
+- 🏅 Fun facts: I really like technology, but always liked all kinds of sports!
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Atila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
